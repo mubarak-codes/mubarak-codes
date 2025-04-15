@@ -1,5 +1,5 @@
 - 👋 Hi I'm Mubarak Owosheni 
-- I'm  a tech enthusiast with 1+ Years of experience, specializing in front-end web development. 
+- I'm  a tech enthusiast with 2+ Years of experience, specializing in front-end web development. 
 
 
 <!---
