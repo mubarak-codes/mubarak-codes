@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mubarak Owosheni</h1>
-<h3 align="center">A front-end developer with 2+ Years of experience. Expertise in HTML, CSS, Bootstrap,Javascript, React</h3>
+<h3 align="center">A front-end developer from Lagos with 2+ Years of experience. Expertise in HTML, CSS, Bootstrap,Javascript, React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubarak-codes&label=Profile%20views&color=0e75b6&style=flat" alt="mubarak-codes" /> </p>
 
