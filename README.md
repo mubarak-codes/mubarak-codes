@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubarak-codes" alt="mubarak-codes" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, Angular, and backend**
-
 - 👨‍💻 All of my projects are available at [https://mubarak-portfolio-inky.vercel.app/](https://mubarak-portfolio-inky.vercel.app/)
 
 - 📫 How to reach me **mubarakcodes@gmail.com || +2347062902419**
