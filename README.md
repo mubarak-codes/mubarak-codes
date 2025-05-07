@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mubarak Owosheni</h1>
 <h3 align="center">A software developer from Lagos with 2+ Years of experience. Expertise in HTML, CSS, Bootstrap, Javascript, Typescript, React, Angular, Python, Django, Postgresql.</h3>
 
