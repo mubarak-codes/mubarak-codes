@@ -2,8 +2,8 @@
   <h2>
     I'm <span style="color: green;">Mubarak Owosheni</span>, 18 years old.
   </h2>
-  <h4>A software developer from Lagos with 2+ years of experience.</h4>
-  <h5>Expertise in:</h5>
+  <p style="font-size:10px; font-weight:bold" >A software developer from Lagos with 2+ years of experience.</h4>
+  <h3>Expertise in:</h3>
   <p>
     <strong>Front-end:</strong> 
     <span style="color: green;">HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Angular</span>
