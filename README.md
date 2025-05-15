@@ -1,4 +1,23 @@
-<h3 align="center">I'm <span style="color:green" >Mubarak Owosheni</span>, 18 years old. A software developer from Lagos with 2+ Years of experience. Expertise in <span style="color:green" >HTML, CSS, Bootstrap, Javascript, Typescript, React, Angular, Python, Django, Postgresql.</span> </h3>
+<div style="text-align: center;">
+  <h3>
+    I'm <span style="color: green;">Mubarak Owosheni</span>, 18 years old.
+  </h3>
+  <p>A software developer from Lagos with 2+ years of experience.</p>
+  <p>Expertise:</p>
+  <p>
+    <strong>Front-end:</strong> 
+    <span style="color: green;">HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Angular</span>
+  </p>
+  <p>
+    <strong>Back-end:</strong> 
+    <span style="color: green;">Python, Django</span>
+  </p>
+  <p>
+    <strong>Database:</strong> 
+    <span style="color: green;">PostgreSQL</span>
+  </p>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubarak-codes&label=Profile%20views&color=0e75b6&style=flat" alt="mubarak-codes" /> </p>
 
