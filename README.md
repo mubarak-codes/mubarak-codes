@@ -1,4 +1,4 @@
-<h3 align="center">I'm Mubarak Owosheni, 18 years old. A software developer from Lagos with 2+ Years of experience. Expertise in HTML, CSS, Bootstrap, Javascript, Typescript, React, Angular, Python, Django, Postgresql. </h3>
+<h3 align="center">I'm <b>Mubarak Owosheni</b>, 18 years old. A software developer from Lagos with 2+ Years of experience. Expertise in <b>HTML, CSS, Bootstrap, Javascript, Typescript, React, Angular, Python, Django, Postgresql.</b> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubarak-codes&label=Profile%20views&color=0e75b6&style=flat" alt="mubarak-codes" /> </p>
 
