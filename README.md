@@ -2,7 +2,7 @@
   <h2>
     I'm <span style="color: green;">Mubarak Owosheni</span>, 18 years old.
   </h2>
-  <p>A software developer from Lagos with 2+ years of experience.</h4>
+  <p>A software developer from Lagos with 3+ years of experience.</h4>
   <h3>Expertise in:</h3>
   <p>
     <strong>Front-end:</strong> 
