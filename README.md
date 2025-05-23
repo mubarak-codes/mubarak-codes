@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h2>
-    I'm <span style="color: green;">Mubarak Owosheni</span>, 18 years old.
+    I'm <span >Mubarak Owosheni</span>, 18 years old.
   </h2>
   <p>A software developer from Lagos with 3+ years of experience.</h4>
   <h3>Expertise in:</h3>
