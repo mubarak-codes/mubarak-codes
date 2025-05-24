@@ -6,7 +6,7 @@
   <h3>Expertise in:</h3>
   <p>
     <strong>Front-end:</strong> 
-    <span style="color: green;">HTML5, CSS3, Bootstrap, JavaScript, TypeScript, React, Angular</span>
+    <span >HTML5, CSS3, Bootstrap, JavaScript, TypeScript, React, Angular</span>
   </p>
   <p>
     <strong>Back-end:</strong> 
