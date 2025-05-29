@@ -10,7 +10,7 @@
   </p>
   <p>
     <strong>Back-end:</strong> 
-    <span style="color: green;">Python, Django</span>
+    <span>Python, Django</span>
   </p>
   <p>
     <strong>Database:</strong> 
