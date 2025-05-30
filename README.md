@@ -14,7 +14,7 @@
   </p>
   <p>
     <strong>Database:</strong> 
-    <span style="color: green;">PostgreSQL</span>
+    <span>PostgreSQL</span>
   </p>
 </div>
 
