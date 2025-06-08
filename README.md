@@ -9,7 +9,7 @@
     <span> HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Angular</span>
   </p>
   <p>
-    <strong>Back-end:</strong> 
+    <strong>Back-end: </strong> 
     <span>Python, Django</span>
   </p>
   <p>
