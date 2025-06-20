@@ -1,4 +1,4 @@
- <div style="text-align: center;">
+<div style="text-align: center;">
   <h2>
     I'm <strong>Mubarak Owosheni</strong>, 18 years old.
   </h2>
